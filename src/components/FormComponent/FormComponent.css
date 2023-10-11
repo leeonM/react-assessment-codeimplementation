@@ -1,0 +1,12 @@
+.formComponent {
+    width: 30%;
+    margin-top: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    padding: 10px;
+    gap: 5px;
+}
